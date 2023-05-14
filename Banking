@@ -113,7 +113,7 @@ int main()
     printf("Bank Management System\n");
     while (1)
     {
-        printf("Hey there! I am Aman Verma from Bank Management System.");
+        printf("Hey there! I am Aahana Chowdhury from Bank Management System.");
         printf("\nSelect an Option:\n");
         printf("1. Create an Account\n");
         printf("2. Deposit\n");
